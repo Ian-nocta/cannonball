@@ -15,30 +15,30 @@
 <defs>
 <radialGradient id="paint0_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-122 -400) scale(3000 2000)">
 <stop stop-color="#000000"/>
-<stop offset="0.5" stop-color="#333333" stop-opacity="0"/>
+<stop offset="0.5" stop-color="#000000" stop-opacity="0"/>
 </radialGradient>
 <radialGradient id="paint1_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(2008 380) scale(3000 2000)">
-<stop stop-color="#333333"/>
-<stop offset="0.5" stop-color="#666666" stop-opacity="0"/>
+<stop stop-color="#000000"/>
+<stop offset="0.5" stop-color="#000000" stop-opacity="0"/>
 </radialGradient>
 <radialGradient id="paint2_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1408 -40) scale(3000 2000)">
-<stop stop-color="#666666"/>
-<stop offset="0.5" stop-color="#999999" stop-opacity="0"/>
+<stop stop-color="#000000"/>
+<stop offset="0.5" stop-color="#000000" stop-opacity="0"/>
 </radialGradient>
 <radialGradient id="paint3_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(-242 1480) scale(3000 2000)">
-<stop stop-color="#999999"/>
-<stop offset="0.5" stop-color="#CCCCCC" stop-opacity="0"/>
+<stop stop-color="#000000"/>
+<stop offset="0.5" stop-color="#000000" stop-opacity="0"/>
 </radialGradient>
 <radialGradient id="paint4_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(328 560) scale(3000 2000)">
-<stop stop-color="#CCCCCC"/>
-<stop offset="0.5" stop-color="#E5E5E5" stop-opacity="0"/>
+<stop stop-color="#000000"/>
+<stop offset="0.5" stop-color="#000000" stop-opacity="0"/>
 </radialGradient>
 <radialGradient id="paint5_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(2008 340) scale(3000 2000)">
-<stop stop-color="#E5E5E5"/>
-<stop offset="0.5" stop-color="#F2F2F2" stop-opacity="0"/>
+<stop stop-color="#000000"/>
+<stop offset="0.5" stop-color="#000000" stop-opacity="0"/>
 </radialGradient>
 <radialGradient id="paint6_radial_21_649" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(298 1440) scale(3000 2000)">
-<stop stop-color="#F2F2F2"/>
+<stop stop-color="#000000"/>
 <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0"/>
 </radialGradient>
 <clipPath id="clip0_21_649">
