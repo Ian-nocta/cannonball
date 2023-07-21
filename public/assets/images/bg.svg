@@ -42,10 +42,10 @@
 <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0"/>
 </radialGradient>
 <clipPath id="clip0_21_649">
-<rect width="1920" height="1080" fill="white"/>
+<rect width="1920" height="1080" fill="black"/>
 </clipPath>
 <clipPath id="clip1_21_649">
-<rect width="3000" height="2000" fill="white" transform="translate(-362 -460)"/>
+<rect width="3000" height="2000" fill="black" transform="translate(-362 -460)"/>
 </clipPath>
 </defs>
 </svg>
