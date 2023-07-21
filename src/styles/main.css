@@ -7,7 +7,7 @@
   --theme-on-secondary: #000000;
   --theme-secondary--hover: #ffffff;
 
-  --theme-background: hsl(0, 0%, 5%);
+  --theme-background: linear-gradient(to bottom, #000000, #333333);
   --theme-on-background: hsl(0, 0%, 98%);
 
   --theme-surface-1: hsl(0, 0%, 92%);
@@ -51,7 +51,7 @@ body {
   position: relative;
   display: grid;
   grid-template-rows: auto 1fr auto;
-  background: var(--theme-background) url('/assets/images/bg.svg') no-repeat;
+  background: linear-gradient(to bottom, #000000, #333333) url('/assets/images/bg.svg') no-repeat;
   background-size: cover;
   background-position: center;
 }
