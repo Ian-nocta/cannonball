@@ -101,6 +101,7 @@ h1, h2, h3 {
 
 p, li {
   max-width: 70ch;
+  color: #a0a0a0;
 }
 
 /* Gloal fade in animation */
