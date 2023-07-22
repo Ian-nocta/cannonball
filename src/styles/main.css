@@ -26,12 +26,12 @@
   --step-5: clamp(3.11rem, calc(2.26rem + 4.25vw), 7.37rem);
 
   --font-family-heading: 'Cardo', serif;
-  --font-family-body: 'Open Sans', sans-serif;
+  --font-family-body: 'Open Sans', serif;
 
   --body-max-width: 1920px;
 
   /* Container */
-  --container-padding: 0 1rem;
+  --container-padding: 0 0.5rem;
   --container-max-width: 1440px;
   --container-max-width-narrow: 960px;
 }
