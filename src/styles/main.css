@@ -3,8 +3,8 @@
   --theme-primary: hsl(0, 0%, 5%);
   --theme-on-primary: hsl(0, 0%, 90%);
   --theme-primary--hover: #000;
-  --theme-secondary: #a6a6a6;
-  --theme-on-secondary: #a6a6a6;
+  --theme-secondary: #ffffff;
+  --theme-on-secondary: #ffffff;
   --theme-secondary--hover: #ffffff;
 
   --theme-background: hsl(0, 0%, 5%);
