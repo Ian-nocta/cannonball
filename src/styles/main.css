@@ -31,7 +31,7 @@
   --body-max-width: 1920px;
 
   /* Container */
-  --container-padding: 0.25 rem;
+  --container-padding: 0.1 rem;
   --container-max-width: 1440px;
   --container-max-width-narrow: 960px;
 }
