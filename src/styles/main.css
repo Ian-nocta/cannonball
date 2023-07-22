@@ -3,8 +3,8 @@
   --theme-primary: hsl(0, 0%, 5%);
   --theme-on-primary: hsl(0, 0%, 47%);
   --theme-primary--hover: #000;
-  --theme-secondary: #ffffff;
-  --theme-on-secondary: #ffffff;
+  --theme-secondary: #a0a0a0;
+  --theme-on-secondary: #a0a0a0;
   --theme-secondary--hover: #000000;
 
   --theme-background: hsl(0, 0%, 5%);
@@ -31,7 +31,7 @@
   --body-max-width: 1920px;
 
   /* Container */
-  --container-padding: 0 1rem;
+  --container-padding: 0 rem;
   --container-max-width: 1440px;
   --container-max-width-narrow: 960px;
 }
