@@ -5,7 +5,7 @@
   --theme-primary--hover: #000;
   --theme-secondary: #ffffff;
   --theme-on-secondary: #ffffff;
-  --theme-secondary--hover: #ffffff;
+  --theme-secondary--hover: #000000;
 
   --theme-background: hsl(0, 0%, 5%);
   --theme-on-background: hsl(0, 0%, 98%);
