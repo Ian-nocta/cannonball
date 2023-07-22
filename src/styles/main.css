@@ -4,7 +4,7 @@
   --theme-on-primary: hsl(0, 0%, 47%);
   --theme-primary--hover: #000;
   --theme-secondary: #a0a0a0;
-  --theme-on-secondary: #a0a0a0;
+  --theme-on-secondary: #FFFFFF;
   --theme-secondary--hover: #000000;
 
   --theme-background: hsl(0, 0%, 5%);
@@ -73,6 +73,7 @@ h1 {
   line-height: 1.2;
   font-stretch: 125%;
   font-variation-settings: 'slnt' -4, 'opsz' 25;
+  color: #a0a0a0;
 }
 
 h2 {
